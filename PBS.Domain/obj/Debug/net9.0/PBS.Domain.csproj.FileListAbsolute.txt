@@ -1,0 +1,11 @@
+C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Domain\bin\Debug\net9.0\PBS.Domain.deps.json
+C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Domain\bin\Debug\net9.0\PBS.Domain.dll
+C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Domain\bin\Debug\net9.0\PBS.Domain.pdb
+C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Domain\obj\Debug\net9.0\PBS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Domain\obj\Debug\net9.0\PBS.Domain.AssemblyInfoInputs.cache
+C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Domain\obj\Debug\net9.0\PBS.Domain.AssemblyInfo.cs
+C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Domain\obj\Debug\net9.0\PBS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Domain\obj\Debug\net9.0\PBS.Domain.dll
+C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Domain\obj\Debug\net9.0\refint\PBS.Domain.dll
+C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Domain\obj\Debug\net9.0\PBS.Domain.pdb
+C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Domain\obj\Debug\net9.0\ref\PBS.Domain.dll

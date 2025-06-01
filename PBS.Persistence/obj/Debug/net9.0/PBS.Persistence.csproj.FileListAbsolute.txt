@@ -1,0 +1,17 @@
+C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Persistence\bin\Debug\net9.0\PBS.Persistence.deps.json
+C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Persistence\bin\Debug\net9.0\PBS.Persistence.runtimeconfig.json
+C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Persistence\bin\Debug\net9.0\PBS.Persistence.dll
+C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Persistence\bin\Debug\net9.0\PBS.Persistence.pdb
+C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Persistence\bin\Debug\net9.0\PBS.Domain.dll
+C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Persistence\bin\Debug\net9.0\PBS.Domain.pdb
+C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Persistence\obj\Debug\net9.0\PBS.Persistence.csproj.AssemblyReference.cache
+C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Persistence\obj\Debug\net9.0\PBS.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Persistence\obj\Debug\net9.0\PBS.Persistence.AssemblyInfoInputs.cache
+C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Persistence\obj\Debug\net9.0\PBS.Persistence.AssemblyInfo.cs
+C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Persistence\obj\Debug\net9.0\PBS.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Persistence\obj\Debug\net9.0\PBS.Pers.3157ED94.Up2Date
+C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Persistence\obj\Debug\net9.0\PBS.Persistence.dll
+C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Persistence\obj\Debug\net9.0\refint\PBS.Persistence.dll
+C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Persistence\obj\Debug\net9.0\PBS.Persistence.pdb
+C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Persistence\obj\Debug\net9.0\PBS.Persistence.genruntimeconfig.cache
+C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Persistence\obj\Debug\net9.0\ref\PBS.Persistence.dll

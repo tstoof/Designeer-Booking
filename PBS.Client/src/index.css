@@ -1,0 +1,101 @@
+:root {
+  --main-color: #142683;
+  --light-color: #5264bf;
+  --dark-color: #071c8a;
+  --main-color-semi: rgba(20,38,131, 0.5);  
+  --light-color-semi: rgba(0, 172, 7782,100,191, 0.5); 
+  --dark-color-semi: rgba(7, 28, 138, 0.5);
+}
+
+/* Reset default browser styling */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+header {
+  width: 100%;
+  background-color: #142683;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+main {
+  margin-left: 170px;
+  padding: 10px;
+  flex: 1;
+  overflow-y: scroll;
+}
+
+
+div > .MuiToolbar-root {
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  left: 0;
+  width: 150px;
+  padding: 20px;
+  height: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  background-color: #5264bf;
+  color: white;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.form {
+  margin: 20px;
+}
+
+
+
+/* For WebKit browsers (Chrome, Safari, Edge) */
+::-webkit-scrollbar {
+    width: 6px;  
+    height: 6px;
+}
+
+::-webkit-scrollbar-track {
+    background: white;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--light-color-semi); 
+    opacity: 100;
+    border-radius: 10px;
+    transition: background 0.3s ease;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--main-color-semi); 
+}
+
+/* Firefox */
+@-moz-document url-prefix() {
+    * {
+        scrollbar-width: auto;
+        scrollbar-color: var(--light-color-semi) white;
+    }
+}
+
+@import '@fullcalendar/core/main.css';
+@import '@fullcalendar/timegrid/main.css';
