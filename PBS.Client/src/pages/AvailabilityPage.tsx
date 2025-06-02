@@ -1,9 +1,10 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import FullCalendar from '@fullcalendar/react';
 import timeGridPlugin from '@fullcalendar/timegrid';
 import interactionPlugin from '@fullcalendar/interaction';
 import { fetchAvailabilities, createAvailability } from '../components/api';
-import { Snackbar, Alert } from '@mui/material';
+import { Snackbar, Alert, type AlertColor } from '@mui/material';
+
 
 export default function CalendarSlotPicker() {
   const [events, setEvents] = useState([]);
@@ -80,7 +81,7 @@ export default function CalendarSlotPicker() {
         autoHideDuration={3000}
         onClose={() => setSnack({ ...snack, open: false })}
       >
-        <Alert severity={snack.severity}>
+      <Alert severity={snack.severity as AlertColor} onClose={() => setSnack({ ...snack, open: false })}>
           {snack.message}
         </Alert>
       </Snackbar>

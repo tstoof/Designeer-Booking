@@ -1,7 +1,6 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import {
   Container,
-  Grid,
   Card,
   CardContent,
   Typography,
@@ -10,7 +9,10 @@ import {
   Snackbar,
   Alert,
   Box,
+  type AlertColor,
 } from '@mui/material';
+import { Grid } from '@mui/material';
+
 import { fetchAvailabilities, createAppointment } from '../components/api';
 
 export default function BookingPage() {
@@ -18,7 +20,7 @@ export default function BookingPage() {
   const [clientName, setClientName] = useState('');
   const [clientEmail, setClientEmail] = useState('');
   const [snack, setSnack] = useState({ open: false, message: '', severity: 'success' });
-
+  
   useEffect(() => {
     fetchAvailabilities().then(setSlots);
   }, []);
@@ -122,7 +124,7 @@ export default function BookingPage() {
         autoHideDuration={3000}
         onClose={() => setSnack({ ...snack, open: false })}
       >
-        <Alert severity={snack.severity} onClose={() => setSnack({ ...snack, open: false })}>
+      <Alert severity={snack.severity as AlertColor} onClose={() => setSnack({ ...snack, open: false })}>
           {snack.message}
         </Alert>
       </Snackbar>
