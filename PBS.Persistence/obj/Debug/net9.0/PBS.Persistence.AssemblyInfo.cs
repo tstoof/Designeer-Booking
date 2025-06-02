@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PBS.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79036dfd5cf0badf7e521f9c26bce9800abb0db8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c57105154aab18ce0e84745c922f9ea399a0586")]
 [assembly: System.Reflection.AssemblyProductAttribute("PBS.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PBS.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

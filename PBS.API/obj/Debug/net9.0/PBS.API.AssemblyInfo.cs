@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PBS.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7430344dd0f672ca973fcd163e61ae0bed3077c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c57105154aab18ce0e84745c922f9ea399a0586")]
 [assembly: System.Reflection.AssemblyProductAttribute("PBS.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PBS.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
