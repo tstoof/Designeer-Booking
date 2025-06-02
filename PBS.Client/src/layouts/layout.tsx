@@ -47,7 +47,8 @@ export const Layout = () => {
                   {' '}
                   <EditCalendarIcon />{' '}
                 </ListItemIcon>
-                Booking
+                Appoint-
+                ment
               </ListItemButton>
             </ListItem>
 
