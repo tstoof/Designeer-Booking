@@ -15,3 +15,4 @@ C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Persistence\obj\Debug\net
 C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Persistence\obj\Debug\net9.0\PBS.Persistence.pdb
 C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Persistence\obj\Debug\net9.0\PBS.Persistence.genruntimeconfig.cache
 C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Persistence\obj\Debug\net9.0\ref\PBS.Persistence.dll
+C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Persistence\obj\Debug\net9.0\PBS.Persistence.sourcelink.json

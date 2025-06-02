@@ -9,3 +9,4 @@ C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Domain\obj\Debug\net9.0\P
 C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Domain\obj\Debug\net9.0\refint\PBS.Domain.dll
 C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Domain\obj\Debug\net9.0\PBS.Domain.pdb
 C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Domain\obj\Debug\net9.0\ref\PBS.Domain.dll
+C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.Domain\obj\Debug\net9.0\PBS.Domain.sourcelink.json

@@ -151,3 +151,4 @@ C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.API\obj\Debug\net9.0\refi
 C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.API\obj\Debug\net9.0\PBS.API.pdb
 C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.API\obj\Debug\net9.0\PBS.API.genruntimeconfig.cache
 C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.API\obj\Debug\net9.0\ref\PBS.API.dll
+C:\Users\Tamara\Documents\Designeer\Practice\Abbey\PBS.API\obj\Debug\net9.0\PBS.API.sourcelink.json

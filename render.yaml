@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: pbs-api
+    env: docker
+    rootDir: PBS.API
+    plan: free
+    dockerfilePath: PBS.API/Dockerfile
+    envVars:
+      - key: ASPNETCORE_ENVIRONMENT
+        value: Production
+      - key: ConnectionStrings__DefaultConnection
+        value: your_production_connection_string
